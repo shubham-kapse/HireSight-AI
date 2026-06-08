@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import axios from "axios";
 
-const API_URL = "http://127.0.0.1:8000/analyze-job-match";
+const API_URL = "https://hiresight-ai-wwz2.onrender.com/analyze-job-match";
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
   visible: { opacity: 1, y: 0 },
