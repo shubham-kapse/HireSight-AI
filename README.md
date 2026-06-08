@@ -44,18 +44,6 @@ The platform extracts skills from uploaded resumes, compares them against job re
 
 ---
 
-## Screenshots
-
-### Landing Page
-
-(Add landing page screenshot here)
-
-### Resume Analysis Dashboard
-
-(Add analysis page screenshot here)
-
----
-
 ## Tech Stack
 
 ### Frontend
